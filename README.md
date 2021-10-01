@@ -1,7 +1,7 @@
 
  ### - 👋 Olá, Bruno Dutra na área.
  
-🧑🏽‍🎓 Estudante da Escola Técnica Blue EdTech
+🧑🏽‍🎓 Estudante de Programação da Escola Técnica Blue EdTech
 
 👨🏾‍💻 Atualmente estou no módulo 1 - Lógica de Programação - JavaScript
 
