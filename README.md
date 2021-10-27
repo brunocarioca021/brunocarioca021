@@ -3,8 +3,6 @@
  
 🧑🏽‍🎓 Estudante de Programação da Escola Técnica Blue EdTech
 
-👨🏾‍💻 Atualmente estou no módulo 1 - Lógica de Programação - JavaScript
-
 
 [![Run on Repl.it](https://repl.it/badge/github/brunocarioca021/undefined)](https://replit.com/@brunocarioca021)  Projetos realizados durante o módulo.
 
