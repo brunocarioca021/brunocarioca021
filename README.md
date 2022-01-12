@@ -3,15 +3,12 @@
  
 🧑🏽‍🎓 Estudante de Programação da Escola Técnica Blue EdTech
 
-
-[![Run on Repl.it](https://repl.it/badge/github/brunocarioca021/undefined)](https://replit.com/@brunocarioca021)  Projetos realizados durante o módulo.
-
 ## Rede 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunocarioca021)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pereira-dutra)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunocarioca021)
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/brunocarioca021#4726)
+
 
 
 ![Brunocarioca021 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocarioca021&theme=blue-green)
