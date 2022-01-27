@@ -1,7 +1,7 @@
 
  ### - 👋 Olá, Bruno Dutra na área.
  
-🧑🏽‍🎓 Estudante de Programação da Escola Técnica Blue EdTech
+🧑🏽‍🎓 Estudante Dev Full Stack da Escola Técnica Blue EdTech.
 
 ## Rede 
 
@@ -32,10 +32,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## SOBRE MIM
-Nascido no RJ e atualmente morando à 16 anos em Olinda-PE , sempre trabalhei na área técnica de informática
-com reparos de notebooks ,PCs e Vídeo Games. Sempre tive vontade de saber como é o funcionamentos dos programas e venho com o tempo estudando a área de segurança da informação (Pentest e Bug Bounty),e preciso ter conhecimento em quais programas eu estou trabalhando,
-então estou me aprofundando mais em programação na Escola Online Blue Edtech. 
+
 
 
 
