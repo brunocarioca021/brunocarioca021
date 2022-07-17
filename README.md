@@ -26,6 +26,7 @@
 **Linguagens & Ferramentas**
 
 <div style="display: inline_block"><br>
+<img align="right" alt="detect" height="80" style="border-radius:50px;" src="./img/detect.gif">
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img  align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
@@ -35,26 +36,24 @@
 <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
 <img  align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img  align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img  align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img  align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <img  align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="right" alt="detect" height="80" style="border-radius:50px;" src="./img/detect.gif">
 </div><br>
 
 ### CIBERSECURITY
 <div style="display: inline_block"><br>
-<img align="center" width="500" src="./img/security.gif" />
+<img align="center" width="900" src="./img/security.gif" />
 </div><br>
 
 ## 🌱 Still studying
 
 
 <div style="display: inline_block"><br>
-<img align="center" width="500" src="./img/program.gif" />
+<img align="center" width="900" src="./img/program.gif" />
 </div><br>
 
 # Let's Connect <img align="center" width="40" src="./img/notecli.gif" />
