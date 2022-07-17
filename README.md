@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-<img align="center" width="600" src="./img/city.gif" />
+<img align="center" width="900" src="./img/city.gif" />
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 💼 Technical Skills Dev Full-Stack
 
 <div style="display: inline_block"><br>
-<img align="center" width="600" src="./img/fullstack.gif" />
+<img align="center" width="900" src="./img/fullstack.gif" />
 </div><br>
 
 >Estas são algumas das principais tecnologias que utilizo neste momento e para estudos:
@@ -35,6 +35,7 @@
 <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
 <img  align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img  align="center" alt="Bruno-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
