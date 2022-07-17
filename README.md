@@ -4,7 +4,7 @@
 
 <p align="center">
 <h3> :woman: &nbsp;Sobre mim </h3>
-🧑🏽‍🎓 Eu sou Bruno Dutra, estudante de Cibersegurança e Desenvolvedor de Web Full Stack💻.
+🧑🏽‍🎓Olá seja bem vindo. Sou Bruno Dutra, estudante de Cibersegurança e Desenvolvedor de Web Full Stack💻.
  Gosto de todo o processo de desenvolvimento e sempre curioso pra saber o que tem debaixo do capô.
 </p>
 
