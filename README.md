@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-<img align="center" width="900" src="./img/city.gif" />
+<img align="center" width="850" src="./img/city.gif" />
 </div>
 
 <p align="center">
