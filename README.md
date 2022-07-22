@@ -18,7 +18,7 @@
 ## 💼 Technical Skills Dev Full-Stack
 
 <div style="display: inline_block"><br>
-<img align="center" width="900" src="./img/fullstack.gif" />
+<img align="center" width="850" src="./img/fullstack.gif" />
 </div><br>
 
 >Estas são algumas das principais tecnologias que utilizo neste momento e para estudos:
@@ -46,14 +46,14 @@
 
 ### CIBERSECURITY
 <div style="display: inline_block"><br>
-<img align="center" width="900" src="./img/security.gif" />
+<img align="center" width="850" src="./img/security.gif" />
 </div><br>
 
 ## 🌱 Still studying
 
 
 <div style="display: inline_block"><br>
-<img align="center" width="900" src="./img/program.gif" />
+<img align="center" width="850" src="./img/program.gif" />
 </div><br>
 
 # Let's Connect <img align="center" width="40" src="./img/notecli.gif" />
