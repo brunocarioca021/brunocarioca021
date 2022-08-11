@@ -8,7 +8,7 @@
  Gosto de todo o processo de desenvolvimento e sempre curioso pra saber o que tem debaixo do capô.
 </p>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias.
 
 - 🎓 &nbsp; Estudando  **Dev Full-Stack** na <a href="https://blueedtech.com.br/">Blue EdTech</a>.
 
