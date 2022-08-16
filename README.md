@@ -66,6 +66,6 @@
 
 <div align="center">
 <img  src="https://profile-counter.glitch.me/brunocarioca021/count.svg" >
-</div> 
+</div></br> 
 
 >Este repositório no momento é voltado para fins de estudos.
