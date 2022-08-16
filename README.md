@@ -62,7 +62,7 @@
  <a href="https://www.linkedin.com/in/bruno-pereira-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Visitantes💻)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Visitantes💻)
 
 <div align="center">
 <img  src="https://profile-counter.glitch.me/brunocarioca021/count.svg" >
