@@ -63,9 +63,4 @@
 </div><br>
 
 
-
 >Este repositório no momento é voltado para fins de estudos.
-
-  ### <p align="center">💻 Visitantes no Perfil </p>
- <img align="relative" src="https://profile-counter.glitch.me/brunocarioca021/count.svg" > 
-
