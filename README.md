@@ -4,15 +4,15 @@
 
 <p align="center">
 <h3>Sobre mim </h3>
-🧑🏽‍🎓Olá seja bem vindo. Sou Bruno Dutra, estudante de Cibersegurança e Desenvolvedor de Web Full Stack💻.
- Gosto de todo o processo de desenvolvimento e sempre curioso pra saber o que tem debaixo do capô.
+🧑🏽‍🎓Hello and welcome. I'm Bruno Dutra, Cybersecurity student and Full Stack Jr Developer.
+I like the whole development process, trying to understand new technologies and always curious to know what is under the hood to understand the logic of what was developed.
 </p>
 
-- 🤔 &nbsp; Explorando novas tecnologias.
+- 👨‍💻 &nbsp; Explorando novas tecnologias.
 
-- 🎓 &nbsp; Estudando  **Dev Full-Stack** na <a href="https://blueedtech.com.br/">Blue EdTech</a>.
+- 🎓 &nbsp; Estudando  **Dev Full Stack** na <a href="https://blueedtech.com.br/">Blue EdTech</a>.
 
-- 🎓 &nbsp; Fazendo graduação na área de **Segurança da Informação - Defesa Cibernética** na <a href="https://estacio.br/cursos/graduacao/defesa-cibernetica">Faculdade Estácio</a>.
+- 🐱‍💻 &nbsp; Doing graduation in the area of Technologist **Information Security - Cyber Defense** at <a href="https://estacio.br/cursos/graduacao/defesa-cibernetica">College Estácio</a>.
 
 
 ## 💼 Technical Skills Dev Full-Stack
@@ -21,9 +21,9 @@
 <img align="center" width="850" src="./img/fullstack.gif" />
 </div><br>
 
->Estas são algumas das principais tecnologias que utilizo neste momento e para estudos:
+>These are some of the main technologies I use at the moment and for studies:
 
-**Linguagens & Ferramentas**
+**Languages & Tools**
 
 <div style="display: inline_block"><br>
 <img align="right" alt="detect" height="80" style="border-radius:50px;" src="./img/detect.gif">
@@ -44,7 +44,7 @@
 <img  align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div><br>
 
-### CIBERSECURITY
+### CYBERSECURITY
 <div style="display: inline_block"><br>
 <img align="center" width="850" src="./img/security.gif" />
 </div><br>
