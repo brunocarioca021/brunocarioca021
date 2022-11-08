@@ -8,9 +8,9 @@
 I like the whole development process, trying to understand new technologies and always curious to know what is under the hood to understand the logic of what was developed.
 </p>
 
-- 👨‍💻 &nbsp; Explorando novas tecnologias.
+- 👨‍💻 &nbsp; Exploring new technologies.
 
-- 🎓 &nbsp; Estudando  **Dev Full Stack** na <a href="https://blueedtech.com.br/">Blue EdTech</a>.
+- 🎓 &nbsp; Studying   **Dev Full Stack** at <a href="https://blueedtech.com.br/">Blue EdTech</a>.
 
 - 🐱‍💻 &nbsp; Doing graduation in the area of Technologist **Information Security - Cyber Defense** at <a href="https://estacio.br/cursos/graduacao/defesa-cibernetica">College Estácio</a>.
 
