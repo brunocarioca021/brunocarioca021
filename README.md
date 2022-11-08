@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<h3>Sobre mim </h3>
+<h3>About me </h3>
 🧑🏽‍🎓Hello and welcome. I'm Bruno Dutra, Cybersecurity student and Full Stack Jr Developer.
 I like the whole development process, trying to understand new technologies and always curious to know what is under the hood to understand the logic of what was developed.
 </p>
@@ -62,10 +62,10 @@ I like the whole development process, trying to understand new technologies and 
  <a href="https://www.linkedin.com/in/bruno-pereira-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Visitantes💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Visitors🕵️)
 
 <div align="center">
 <img  src="https://profile-counter.glitch.me/brunocarioca021/count.svg" >
 </div></br> 
 
->Este repositório no momento é voltado para fins de estudos.
+>This repository is currently for study purposes.
