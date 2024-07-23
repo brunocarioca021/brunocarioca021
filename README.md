@@ -12,7 +12,7 @@ I like the whole development process, trying to understand new technologies and 
 
 - 🎓 &nbsp; Studying   **Dev Full Stack** at <a href="https://blueedtech.com.br/">Blue EdTech</a>.
 
-- 🐱‍💻 &nbsp; Doing graduation in the area of Technologist **Information Security - Cyber Defense** at <a href="https://estacio.br/cursos/graduacao/defesa-cibernetica">College Estácio</a>.
+- 🐱‍💻 &nbsp; Doing graduation in the area of Technologist **Information Security - Cyber Defense** at <a href="https://portal.uniasselvi.com.br/graduacao/tecnologo/ciberseguranca-tecnologia-em-ciberseguranca/ead">College Uniasselvi</a>.
 
 
 ## 💼 Technical Skills Dev Full-Stack
